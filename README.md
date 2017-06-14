@@ -7,6 +7,12 @@ Simple app that allows to create a MacOS application from Python script.
 * MacOS
 * Python > 2.7
 
+## Features
+
+* Graphic app
+* Bundle settings
+* Icon setting
+
 ## Get started
 
 #### Using pip
@@ -17,12 +23,6 @@ pip install -U py2app
 ```
 easy_install -U py2app
 ```
-
-## Features
-
-* Graphic app
-* Bundle settings
-* Icon setting
 
 ***
 
