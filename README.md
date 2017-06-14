@@ -25,7 +25,7 @@ easy_install -U py2app
 ```
 
 You can now launch the app in `/app/dist` to set up your own application.
-_Note: this app set up by itself :stuck_out_tongue:_
+_Note: this app set up by itself_ :stuck_out_tongue:
 
 ***
 
