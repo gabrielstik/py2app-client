@@ -26,4 +26,4 @@ easy_install -U py2app
 
 ***
 
-Thank you ! :thumbsup"
+Thank you ! :thumbsup:
